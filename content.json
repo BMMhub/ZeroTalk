@@ -4,7 +4,7 @@
  "background-color": "#F5F5F5",
  "cloneable": true,
  "cloned_from": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
- "description": "a list of git repostitories on ZeroNet",
+ "description": "a list of git repositories on ZeroNet",
  "domain": "0git.bit",
  "files": {
   "index.html": {
